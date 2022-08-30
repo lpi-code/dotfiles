@@ -1,0 +1,6 @@
+#!/usr/bin/bash
+
+# All application that should be autostarted
+
+# Desktop environment
+sxhkd &
